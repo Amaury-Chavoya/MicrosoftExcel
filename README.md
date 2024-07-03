@@ -1,4 +1,4 @@
-# Microsoft Exel 
+# Microsoft Excel 
 
 ## Conexto 
 Este conjunto de datos contiene infromación detallada sobre las ventas de una tienda. Incluye datos sobre diversos productos vendidos, su fecha de venta, categoría, etc.
