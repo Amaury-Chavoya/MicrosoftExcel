@@ -1,7 +1,7 @@
 # Microsoft Excel, Caso Prático
 
 ## Contexto 
-En este caso veremos la facilidad que los filtros y tablas dinámicas en excel nos dan para buscar información útil y valiosa.
+Veremos la facilidad que los filtros y tablas dinámicas en excel nos dan para buscar información útil y valiosa.
 A su vez, nos brinda datos relevantes a la hora de tomar decisiones, hacer cambios, modificar algún producto o continuar con alguna
 vertente del negocio que esté yendo bien.
 
