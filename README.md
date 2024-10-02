@@ -1,18 +1,13 @@
-# Microsoft Excel 
+# Microsoft Excel, Caso Prático.
 
 ## Contexto 
-Este conjunto de datos contiene infromación detallada sobre las ventas de una tienda. Incluye datos sobre diversos productos vendidos, su fecha de venta, categoría, etc.
-Estos datos son relevantes para comprender el rendimiento del año.
+En este caso veremos la facilidad que los filtros y tablas dinámicas en excel nos dan para buscar información útil y valiosa.
+A su vez, nos brinda datos relevantes a la hora de tomar decisiones, hacer cambios, modificar algún producto o continuar con alguna
+vertente del negocio que esté yendo bien.
 
 ## Objetivo 
 Transformar y visulizar los datos que permita a los propietarios de la tienda obtener información valiosa.
 
-## Resultado de análisis
-1. Aumento estacional de productos de verano
-   - Las ventas de productos relacionados con el verano como trajes de baño, bloqueador solar y artículos del jardín mostraron un incremento deurante los meses de junio a agosto.
-
-  2. Bajo rendimiento de la categoría de electrónica
-     - Esta categoría ha experimentado una disminución constante en las ventas al comprarla con otras como la ropa y belleza.
 
 ### Código utilizado en el análisis
-```SELECT * FROM table```
+```SELECT * FROM table``` 
